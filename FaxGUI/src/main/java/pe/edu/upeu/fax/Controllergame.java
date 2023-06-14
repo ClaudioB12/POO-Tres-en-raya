@@ -22,7 +22,7 @@ import pe.edu.upeu.dao.FaxDaoI;
 
 /**
  *
- * @author INTEL
+ * @author guitar
  */
 public class Controllergame {
 
@@ -36,8 +36,7 @@ public class Controllergame {
     private JLabel[][] casillas;
     FaxDaoI dao = new FaxDao();
 
-    //public List listarResultado(){
-    //}
+    
     public Controllergame(ViewGame view, ModelGame model) {
         this.view = view;
         this.model = model;

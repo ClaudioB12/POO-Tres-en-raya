@@ -15,7 +15,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author INTEL
+ * @author guitar
  */
 public class ViewGame extends javax.swing.JFrame {
 
@@ -610,20 +610,6 @@ public class ViewGame extends javax.swing.JFrame {
     
     }
     int valA=0, valB=0;
-    
-      
-       /* public void  registrarOperacion(){
-        ModeloTO to=new ModeloTO();
-        to.setNombrePartida(nombrePartida);
-        to.setNombreJugador1(valB);
-        to.setNombreJugador2(valB);
-        to.setGanador(valB);
-        to.setPunto(valB);
-        to.setEstado(valB);
-        MichiDaoI dao=new MichiDao();
-        dao.create(to);
-        listarResultados();
-    }*/
     
     DefaultTableModel model;
     

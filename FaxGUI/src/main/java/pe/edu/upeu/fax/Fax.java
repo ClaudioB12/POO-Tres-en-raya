@@ -9,7 +9,7 @@ import pe.edu.upeu.modelo.FaxTO;
 
 /**
  *
- * @author INTEL
+ * @author guitar
  */
 public class Fax {
     public static void main(String args[]){

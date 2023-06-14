@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author INTEL
+ * @author guitar
  */
 public class ModelGame {
 
