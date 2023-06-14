@@ -1,6 +1,8 @@
-D:\DESARROLLO-POO\ReforzamientoPOO2022\CalcGUI\src\main\java\pe\edu\upeu\CalcGUI.java
-D:\DESARROLLO-POO\ReforzamientoPOO2022\CalcGUI\src\main\java\pe\edu\upeu\gui\MainCalc.java
-D:\DESARROLLO-POO\ReforzamientoPOO2022\CalcGUI\src\main\java\pe\edu\upeu\coon\ConnS.java
-D:\DESARROLLO-POO\ReforzamientoPOO2022\CalcGUI\src\main\java\pe\edu\upeu\modelo\ResultadoTO.java
-D:\DESARROLLO-POO\ReforzamientoPOO2022\CalcGUI\src\main\java\pe\edu\upeu\dao\ResultadoDaoI.java
-D:\DESARROLLO-POO\ReforzamientoPOO2022\CalcGUI\src\main\java\pe\edu\upeu\dao\ResultadoDao.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\fax\Controllergame.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\dao\FaxDaoI.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\fax\Fax.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\dao\FaxDao.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\fax\ViewGame.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\modelo\FaxTO.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\coon\ConnS.java
+D:\UPeU 2023-1\Programación Orientada a Objetos\POO-Tres-en-raya\FaxGUI\src\main\java\pe\edu\upeu\fax\ModelGame.java
