@@ -1,0 +1,6 @@
+pe\edu\upeu\dao\ResultadoDao.class
+pe\edu\upeu\dao\ResultadoDaoI.class
+pe\edu\upeu\gui\MainCalc.class
+pe\edu\upeu\CalcGUI.class
+pe\edu\upeu\coon\ConnS.class
+pe\edu\upeu\modelo\ResultadoTO.class
